@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Scrapy_first</string>
+    <string name="search_hint">请输入搜索关键词,多个关键词以空格的分开</string>
+    <string name="search_btn">搜索</string>
+    <string name="search_count">请选择每页显示结果条数</string>
+</resources>
